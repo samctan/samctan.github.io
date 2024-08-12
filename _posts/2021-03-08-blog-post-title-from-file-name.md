@@ -1,32 +1,26 @@
-## Blog Post Title From First Header
+## init post
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+I have finally taken the next step to create this website as a way to showcase things I have learnt or projects I am working on.
 
-If the file does not start with a header, then the post title will be derived from the filename.
+Currently, I'm planning to post about three areas:
+> Establishing a team and creating operational excellence
+> Side hustle projects
+> The blockchain and my personal views on developing a blockchain ecosystem
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+To create this blog in the first place required quite a number of basic steps.
 
----
+I followed these core principles
+1. Do everything as cheaply as possible
+2. Try to do as much as seems practical to get exposure to a wide range of technical concepts about how things actually work
+3. Keep things bite sized (I don't have huge amounts of time to sit and go deep on anything)
 
-### This is a header
+These are my goals for this blog
+1. Don't let great get in the way of good - I plan to try and publish a post a week
+2. Speak from experience - I will try to stick to things I have done and share my personal experiences
+3. Make my mum proud - Write in a way that my parents can understand and follow
 
-#### Some T-SQL Code
+I'll need to come back to this initial post and see how closely I've managed to follow my principles and goals.
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
+For those wanting to repeat the website portion of what I've done, I'm using Github pages. This will mean my Github (https://github.com/samctan/samctan.github.io) will become a handy reference for all the updates I've made to the blog.
 
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+The hard things done right are the right things.
