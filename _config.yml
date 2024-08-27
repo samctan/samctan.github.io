@@ -1,5 +1,6 @@
 title: "Simple Mule"
 author: "Samuel Tan"
+url: 'http://simplemule.com'
 description: "I plan to post on things I am building or learning about" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -14,6 +15,13 @@ linkedin_username: "samuelctan"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+theme_skin: blue # blue turquoise green berry orange ceramic teal oceanstale
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 rss: rss
 

@@ -11,6 +11,7 @@ For the last few years I've wrestled with this question. This question is simila
 ![Photo of Taronga Zoo view](../_images/Taronga_zoo_view.jpg)
 
 I think the arguments can be laid out with the following:
+
 | For | Against |
 | ----------------------- | ----------------------- |
 | Provide a publicly accessible reference point for digital work products | Waste of time i.e. do something that no one cares about or sees |
@@ -33,10 +34,27 @@ You can choose to implement your blog in a variety of ways. The major categories
 
 | Option | Pros | Cons |
 | ----------------------- | ----------------------- | ----------------------- |
-| Host it on Github Pages | + Free + Lots of documentation and help online | + Limited to what Github Pages support + Test editing done in a developer environment i.e. text based|
-| Choose a turn key SaaS vendor | + wysiwyg user interface + lots of templates to choose from + Very fast | + Highest cost|
-| Host on a cloud provider || + Medium cost + Still requires significant technical learning to coordinate between cloud provider, setup environment for webpage etc|
-| Host on your own server |Do something that has already been done a million times||
+| Host it on Github Pages | 
++ Free 
++ Lots of documentation and help online | 
++ Limited to what Github Pages support 
++ Test editing done in a developer environment i.e. text based|
+| Choose a turn key SaaS vendor | 
++ wysiwyg user interface 
++ lots of templates to choose from 
++ Very fast | 
++ Highest cost|
+| Host on a cloud provider |
++ Max learning
++ Max configurability | 
++ Medium cost 
++ Still requires significant technical learning to coordinate between cloud provider, setup environment for webpage etc|
+| Host on your own server |
++ Max learning
++ |
++ Lowest cost without giving up flexibility of setup
++ Need your server to be running 24/7
++ Fixed IP costs|
 
 ### Choose a template
 
@@ -44,11 +62,17 @@ You can choose to implement your blog in a variety of ways. The major categories
 
 ## Other considerations
 
-### Setting up a custom domain name
+### Setting up a custom domain name on Github Pages
 
 Setting up a custom domain makes everything just look slick.
 
-#### Different redirects
+There are alot more things to setup if you do this. I only learnt what was required for Github Pages setup as that is what I did
+
+#### Step 1. Setup DNS records on your domain service
+
+##### Side note re: redirects
+
+You don't need them at all for Github Pages custom domain name setup but these confused me alot
 
 + 301
 + 302
