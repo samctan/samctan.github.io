@@ -63,11 +63,13 @@ education:
       - degree: Bsc Electrical Engineering
         university: Queensland University of Technology
         time: 2001 - 2005
-        details: 
+        details: |
+        Test details
       - degree: BSc in Information Technology (Software Engineering)
         university: Queensland University of Technology
         time: 2001 - 2005
-        details: 
+        details: |
+        Some other details
 
 experiences:
     title: Experiences
