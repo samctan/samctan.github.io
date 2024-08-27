@@ -8,7 +8,7 @@ In this post, I hope to capture the steps I when creating and publishing this bl
 
 For the last few years I've wrestled with this question. This question is similar to why take another photo of a popular natural site (i.e. mountain or waterfall) or another photo of your family at the Taronga zoo view of the Sydney city.
 
-![Photo of Taronga Zoo view](../_images/Taronga_zoo_view.jpg)
+![Photo of Taronga Zoo view](../Assets/images//Taronga_zoo_view.jpg)
 
 I think the arguments can be laid out with the following:
 

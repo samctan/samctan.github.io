@@ -8,23 +8,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Samuel Tan
+    tagline: GTM Strategy & Customer Success Leader
+    avatar: SamTanProfile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
+    email: samctan@gmail.com
+    phone: +61 422 436 310
+    timezone: Australia/Eastern # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Australian
+    website: http://simplemule.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: samuelctan
+    github: samctan
+    telegram: thesamueltan
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: '@thesammyctan'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,104 +38,105 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: SQL
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Golfing
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
-        - item: Cooking
+        - item: Brisbane Lions
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I help businesses innovate through adopting cutting edge technology, establishing operational excellence, and developing people and teams. My superpower is to understand the complexities of a problem and identify the areas to tackle first.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Bsc Electrical Engineering
+        university: Queensland University of Technology
+        time: 2001 - 2005
+        details: 
+      - degree: BSc in Information Technology (Software Engineering)
+        university: Queensland University of Technology
+        time: 2001 - 2005
+        details: 
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Director Ecosystem Partnerships
+        time: November 2022 - June 2024
+        company: Immutable, Sydney
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Immutable is a global leader in gaming on a mission to bring digital ownership to every player by making it safe and easy to build great web3 games. Founded in 2018, it raised AUD$280M in March 2022 at a $3.5BN valuation and backed by top investors like BITKRAFT Ventures, AirTree, Temasek, Coinbase.
+
+          As Immutable scaled, I was asked to create a new team to develop partnerships with vetted third-party companies that provide complementary products or services to Immutable customers and act as referral channels.
+            - Identified, qualified and signed first 30 partners to ecosystem partner program starting with developer tooling, infrastructure, and integration and game developers
+            - Designed and coordinated implementation of partner listing website and white glove match-making service
+            - Established scoring methodology for developers, framework for ecosystem partnerships model and drafting of Partner Agreement
+
+      - role: Head of Integrations
+        time: September 2021 - November 2022
+        company: Immutable, Sydney
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I helped establish the go-to-market function. I was responsible for creating the integrations engineering team that advised customers on the design and technical process to integrate games or applications with the technology platform and helped the company scale from 50 to 250 team members globally
+            - Established team mission, process, playbooks, onboarding approach and operating KPIs. Part of GTM leadership group and ensured a cohesive approach alongside the establishment and scaling of the broader Customer Success team from two to 25 team members
+            - Hired and onboarded team of eight across US, Europe and Australia
+            - Defended the potential churn of a key strategic customer, Illuvium, through tight collaboration with product and engineering teams. This led to the subsequent $72M successful digital land sale
+            - Managed the technical integrations and account management of the first set of key customers including Epics.gg, Ember Sword, Planet Quest, and TokenTrove
+
+      - role: Snr Director of Market Development, JAPAC
+        time: Aug 2018 - September 2021
+        company: Xandr, Sydney
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Xandr (now Microsoft Advertising, formerly AppNexus) helps buyers and sellers run programmatic advertising campaigns across screens and tapping into engaged audiences. It provided an independent alternative to Google advertising products and had over USD$300M in gloabl annual revenue across thousands of customers.
+          Go-to-market leader for Japan and Asia Pacific region responsible for defining and leading the execution of the three year regional strategy. Responsible for over forty team members across sales, account management, integrations and product specialist disciplines based in Sydney, Singapore and Tokyo offices. Managed through the sale of AppNexus to AT&T and key senior executive transitions, right sizing APAC team and expanding Japan and Australian teams. Keynote speaker at major industry events in Sydney, Singapore and Tokyo, quoted in the media and interviewed on live radio.
+            - Directed the Xandr P&L of over USD$30M in revenue, which grew double digit % YoY over the three years by balancing strategic bets for outsized returns and protecting anchor customer growth
+            - Led the turn around of APAC business from declining 30% QoQ to 5% QoQ growth by introducing market specific team structure, right sizing customer servicing model and investing in several strategic initiatives including India market entry, winning anchor video buying customer and piloting a video supply market service.
+            - Secured key anchor customer renewal, Yahoo Japan, that led to a 30% YoY growth in revenue for Japan team with significant expected upside through more expansive strategic partnership
+
+      - role: Director of Market Development, Australia
+        time: October 2017 - August 2018
+        company: Xandr, Sydney
+        details: |
+          Go-to-market leader for Australia team responsible for defining and leading the execution of the market strategy. Responsible for twelve team members across sales, account management, integrations and product specialist disciplines based in Sydney. Managed the transition of two key senior commercial team members and took responsibility for commercial team, representing the company at key industry events and promoted new customer success leadership.  - Directed the Xandr P&L of over USD$30M in revenue, which grew double digit % YoY over the three years by balancing strategic bets for outsized returns and protecting anchor customer growth
+            - Successfully pivoted market strategy and replaced nearly 30% of team revenue by securing key anchor video buyer, Finecast Australia and capitalising on the rapid growth of an emerging rich media product, Playground XYZ
+            - Sponsored the implementation of a local custom application development team to create market specific differentiation at relatively small scale that, if effective, could be merged into core product. This was a key component to successfully winning Finecast Australia
+            - Implemented cross-functional “pod” operating model to empower strategy setting and decision making in small initiative-focused teams
+
+      - role: Director of Services, Australia
+        time: March 2014 - September 2017
+        company: Xandr, Sydney
+        details: |
+          Expanded services team from four to eight technical account managers, implementation consultants and product specialists. Piloted local custom development applications and “test and scale” approach.  - Successfully pivoted market strategy and replaced nearly 30% of team revenue by securing key anchor video buyer, Finecast Australia and capitalising on the rapid growth of an emerging rich media product, Playground XYZ
+            - Led the RFP response and winning pitch for key anchor customer, Nine Digital, to replace Google ad stack leading to over AUD$1M of annual revenue and a YoY growth of over 20%
+            - Implemented local product specialist role to reduce customer issue resolution time, shift account management and consultants to proactive customer engagement patterns and facilitate junior entryway and progression within services team structure
+            - Sponsored Diversity and Inclusion initiatives that culminated in 50/50 balance of genders
+
+      - role: Snr Managing Consultant
+        time: 2011 - 2014
+        company: IBM, Sydney
+        details: |
+          Sam was part of a team of strategy consultants that managed a number of internal strategic initiatives that supported IBMs efforts to tailor its strategies, business models, resource and investment to the different markets. Sam's work included growth initiatives, organisation design, piloting new business models and competitive programs.
+
+       - role: Manager, Advisory
+        time: 2006 - 2011
+        company: PwC, Philadelphia & Sydney
+        details: |
+          Sam managed advisory projects for healthcare, financial services and utilities         
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Applied Finance
           start: 2020
           end: 2021
           organization: Microsoft
@@ -157,112 +157,26 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Product Strategy and Execution
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Cross-Functional Collaboration
         level: 98%
 
-      - name: Angular
+      - name: Customer and Market Acumen
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Communication and Problem-Solving
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Initiative and Analytical Thinking
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
