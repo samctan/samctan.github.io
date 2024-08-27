@@ -23,20 +23,36 @@ I think the arguments can be laid out with the following:
 | # | Step | Description|
 | ----------------------- | ----------------------- |----------------------- |
 |1.|Identify what's involved| Figure out the various things involved in setting up a blog
-
-|2. |Make some decisions|
-
-|3. |Publish something|
+|2. |Make some decisions|+ Choose how and where you want the website hosted + Decide on what you plan to write about|
+|3. |Publish something| + Get started blogging. This seems like the easiest part but was actually much harder for me then doing everything else.|
 
 ## Detailed breakdown
 
-### Identify what's involved
-To setup a blog you'll need
-- Choose an implementation option
+### Choose an implementation option
+You can choose to implement your blog in a variety of ways. The major categories I identified are:
 
+| Option | Pros | Cons |
+| ----------------------- | ----------------------- | ----------------------- |
+| Host it on Github Pages | + Free + Lots of documentation and help online | + Limited to what Github Pages support + Test editing done in a developer environment i.e. text based|
+| Choose a turn key SaaS vendor | + wysiwyg user interface + lots of templates to choose from + Very fast | + Highest cost|
+| Host on a cloud provider || + Medium cost + Still requires significant technical learning to coordinate between cloud provider, setup environment for webpage etc|
+| Host on your own server |Do something that has already been done a million times||
 
-### Make some decisions
+### Choose a template
 
-### Publish something
+### (Optional) Choose how you want to setup a custom domain
 
 ## Other considerations
+
+### Setting up a custom domain name
+
+Setting up a custom domain makes everything just look slick.
+
+#### Different redirects
+
++ 301
++ 302
++ Forwarding with masking
+
+### https? To be secure or not to be secure
+
