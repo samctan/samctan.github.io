@@ -34,10 +34,10 @@ You can choose to implement your blog in a variety of ways. The major categories
 
 | Option | Pros | Cons |
 | ----------------------- | ----------------------- | ----------------------- |
-| Host it on Github Pages | <ul><li>Free </li><ul><li>Lots of documentation and help online </li>|<ul><li>Limited to what Github Pages support </li><ul><li>Test editing done in a developer environment i.e. text based</li>|
-| Choose a turn key SaaS vendor | <ul><li>wysiwyg user interface </li><ul><li>lots of templates to choose from </li><ul><li>Very fast</li> | <ul><li>Highest cost</li>|
-| Host on a cloud provider |<ul><li>Max learning</li><ul><li>Max configurability</li> | <ul><li>Medium cost </li><ul><li>Still requires significant technical learning to coordinate between cloud provider, setup environment for webpage etc</li>|
-| Host on your own server |<ul><li> Max learning</li> |<ul><li> Lowest cost without giving up flexibility of setup</li><ul><li>Need your server to be running 24/7</li><ul><li>Fixed IP costs</li>|
+| Host it on Github Pages | <ul><li>Free </li><li>Lots of documentation and help online </li></ul>|<ul><li>Limited to what Github Pages support </li><li>Test editing done in a developer environment i.e. text based</li></ul>|
+| Choose a turn key SaaS vendor | <ul><li>wysiwyg user interface </li><li>lots of templates to choose from </li><li>Very fast</li></ul>| <ul><li>Highest cost</li></ul>|
+| Host on a cloud provider |<ul><li>Max learning</li><li>Max configurability</li></ul> | <ul><li>Medium cost </li><li>Still requires significant technical learning to coordinate between cloud provider, setup environment for webpage etc</li></ul>|
+| Host on your own server |<ul><li> Max learning</li></ul> |<ul><li> Lowest cost without giving up flexibility of setup</li><li>Need your server to be running 24/7</li><li>Fixed IP costs</li></ul>|
 
 ### Choose a template
 
