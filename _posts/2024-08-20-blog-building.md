@@ -23,7 +23,7 @@ I think the arguments can be laid out with the following:
 
 | # | Step | Description|
 | ----------------------- | ----------------------- |----------------------- |
-|1.|Identify what's involved| Figure out the various things involved in setting up a blog
+|1.|Identify what's involved| Figure out the various things involved in setting up a blog|
 |2. |Make some decisions|+ Choose how and where you want the website hosted + Decide on what you plan to write about|
 |3. |Publish something| + Get started blogging. This seems like the easiest part but was actually much harder for me then doing everything else.|
 
@@ -34,27 +34,10 @@ You can choose to implement your blog in a variety of ways. The major categories
 
 | Option | Pros | Cons |
 | ----------------------- | ----------------------- | ----------------------- |
-| Host it on Github Pages | 
-+ Free 
-+ Lots of documentation and help online | 
-+ Limited to what Github Pages support 
-+ Test editing done in a developer environment i.e. text based|
-| Choose a turn key SaaS vendor | 
-+ wysiwyg user interface 
-+ lots of templates to choose from 
-+ Very fast | 
-+ Highest cost|
-| Host on a cloud provider |
-+ Max learning
-+ Max configurability | 
-+ Medium cost 
-+ Still requires significant technical learning to coordinate between cloud provider, setup environment for webpage etc|
-| Host on your own server |
-+ Max learning
-+ |
-+ Lowest cost without giving up flexibility of setup
-+ Need your server to be running 24/7
-+ Fixed IP costs|
+| Host it on Github Pages | <ul><li>Free </li><ul><li>Lots of documentation and help online </li>|<ul><li>Limited to what Github Pages support </li><ul><li>Test editing done in a developer environment i.e. text based</li>|
+| Choose a turn key SaaS vendor | <ul><li>wysiwyg user interface </li><ul><li>lots of templates to choose from </li><ul><li>Very fast</li> | <ul><li>Highest cost</li>|
+| Host on a cloud provider |<ul><li>Max learning</li><ul><li>Max configurability</li> | <ul><li>Medium cost </li><ul><li>Still requires significant technical learning to coordinate between cloud provider, setup environment for webpage etc</li>|
+| Host on your own server |<ul><li> Max learning</li> |<ul><li> Lowest cost without giving up flexibility of setup</li><ul><li>Need your server to be running 24/7</li><ul><li>Fixed IP costs</li>|
 
 ### Choose a template
 
